@@ -29,12 +29,12 @@ export default function Home() {
               <span className="text-white/90 text-sm">Introducing SendPoint AI</span>
             </div>
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-white mb-8">
-              The internet is your <br />
-              <span className="text-blue-300">inbox.</span>
+              Every email becomes <br />
+              <span className="text-blue-300">a conversation.</span>
             </h1>
             <p className="mt-6 text-lg md:text-xl leading-8 text-white/80 max-w-2xl mx-auto">
-              Transform your newsletters with AI that understands your brand, 
-              connects with your audience, and handles responses automatically.
+              Create AI-powered newsletters that don&apos;t just speak to your audience—they listen 
+              and respond, keeping your customers engaged.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a href="#" className="rounded-full bg-white px-8 py-3 text-blue-900 font-semibold hover:bg-blue-50 transition">
